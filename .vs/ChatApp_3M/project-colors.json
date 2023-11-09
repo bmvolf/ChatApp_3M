@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2385640c-7fa8-43ef-898e-76106125a2a4": {
+      "ProjectGuid": "2385640c-7fa8-43ef-898e-76106125a2a4",
+      "DisplayName": "Server_ChatApp",
+      "ColorIndex": 0
+    },
+    "eb9a0e4b-dcea-425e-a048-d849b327ff71": {
+      "ProjectGuid": "eb9a0e4b-dcea-425e-a048-d849b327ff71",
+      "DisplayName": "Client_ChatApp",
+      "ColorIndex": 1
+    },
+    "064c5ecc-4140-4e89-8d01-af1995cdc6c9": {
+      "ProjectGuid": "064c5ecc-4140-4e89-8d01-af1995cdc6c9",
+      "DisplayName": "ChatAppLibrary",
+      "ColorIndex": 2
+    },
+    "20f69083-c359-4b6d-bd89-d70a3906ab28": {
+      "ProjectGuid": "20f69083-c359-4b6d-bd89-d70a3906ab28",
+      "DisplayName": "Server_MegaChat",
+      "ColorIndex": 3
+    },
+    "88e3efe7-1684-4ab8-9fc9-1c0578f82279": {
+      "ProjectGuid": "88e3efe7-1684-4ab8-9fc9-1c0578f82279",
+      "DisplayName": "Client_MegaChat",
+      "ColorIndex": 4
+    },
+    "54589c7e-5734-4a41-8195-9cc0dd7890ca": {
+      "ProjectGuid": "54589c7e-5734-4a41-8195-9cc0dd7890ca",
+      "DisplayName": "ClientFirst_MegaChat",
+      "ColorIndex": 5
+    },
+    "c4802e3f-9ca2-4f94-b4e9-0ae9c7dd0167": {
+      "ProjectGuid": "c4802e3f-9ca2-4f94-b4e9-0ae9c7dd0167",
+      "DisplayName": "ClientSecond_MegaChat",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "875d92a5-6c8e-4d43-8a22-dd469cb008fe": {
+      "ProjectGuid": "875d92a5-6c8e-4d43-8a22-dd469cb008fe",
+      "DisplayName": "ChatAppLibrary2",
+      "ColorIndex": 7
+    },
+    "ee465474-f537-4b60-84d1-1e1fa630de06": {
+      "ProjectGuid": "ee465474-f537-4b60-84d1-1e1fa630de06",
+      "DisplayName": "ChatAppLibrary3",
+      "ColorIndex": 8
+    },
+    "02ceb00c-7823-4197-988d-bb068b6355cf": {
+      "ProjectGuid": "02ceb00c-7823-4197-988d-bb068b6355cf",
+      "DisplayName": "ClientThird_MegaChat",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

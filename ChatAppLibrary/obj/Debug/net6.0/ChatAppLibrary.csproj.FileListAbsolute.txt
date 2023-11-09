@@ -1,0 +1,12 @@
+D:\BORIS\ProgtimeZan\ChatApp_3M\ChatAppLibrary\bin\Debug\net6.0\ChatAppLibrary.deps.json
+D:\BORIS\ProgtimeZan\ChatApp_3M\ChatAppLibrary\bin\Debug\net6.0\ChatAppLibrary.dll
+D:\BORIS\ProgtimeZan\ChatApp_3M\ChatAppLibrary\bin\Debug\net6.0\ref\ChatAppLibrary.dll
+D:\BORIS\ProgtimeZan\ChatApp_3M\ChatAppLibrary\bin\Debug\net6.0\ChatAppLibrary.pdb
+D:\BORIS\ProgtimeZan\ChatApp_3M\ChatAppLibrary\obj\Debug\net6.0\ChatAppLibrary.csproj.AssemblyReference.cache
+D:\BORIS\ProgtimeZan\ChatApp_3M\ChatAppLibrary\obj\Debug\net6.0\ChatAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\BORIS\ProgtimeZan\ChatApp_3M\ChatAppLibrary\obj\Debug\net6.0\ChatAppLibrary.AssemblyInfoInputs.cache
+D:\BORIS\ProgtimeZan\ChatApp_3M\ChatAppLibrary\obj\Debug\net6.0\ChatAppLibrary.AssemblyInfo.cs
+D:\BORIS\ProgtimeZan\ChatApp_3M\ChatAppLibrary\obj\Debug\net6.0\ChatAppLibrary.csproj.CoreCompileInputs.cache
+D:\BORIS\ProgtimeZan\ChatApp_3M\ChatAppLibrary\obj\Debug\net6.0\ChatAppLibrary.dll
+D:\BORIS\ProgtimeZan\ChatApp_3M\ChatAppLibrary\obj\Debug\net6.0\ref\ChatAppLibrary.dll
+D:\BORIS\ProgtimeZan\ChatApp_3M\ChatAppLibrary\obj\Debug\net6.0\ChatAppLibrary.pdb

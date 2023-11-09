@@ -1,0 +1,7 @@
+D:\BORIS\ProgtimeZan\ChatApp_3M\ChatAppLibrary3\bin\Debug\ChatAppLibrary3.dll.config
+D:\BORIS\ProgtimeZan\ChatApp_3M\ChatAppLibrary3\bin\Debug\ChatAppLibrary3.dll
+D:\BORIS\ProgtimeZan\ChatApp_3M\ChatAppLibrary3\bin\Debug\ChatAppLibrary3.pdb
+D:\BORIS\ProgtimeZan\ChatApp_3M\ChatAppLibrary3\obj\Debug\ChatAppLibrary3.csproj.AssemblyReference.cache
+D:\BORIS\ProgtimeZan\ChatApp_3M\ChatAppLibrary3\obj\Debug\ChatAppLibrary3.csproj.CoreCompileInputs.cache
+D:\BORIS\ProgtimeZan\ChatApp_3M\ChatAppLibrary3\obj\Debug\ChatAppLibrary3.dll
+D:\BORIS\ProgtimeZan\ChatApp_3M\ChatAppLibrary3\obj\Debug\ChatAppLibrary3.pdb

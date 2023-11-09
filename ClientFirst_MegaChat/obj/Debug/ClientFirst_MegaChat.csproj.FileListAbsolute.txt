@@ -1,0 +1,15 @@
+D:\BORIS\ProgtimeZan\ChatApp_3M\ClientFirst_MegaChat\obj\Debug\ClientFirst_MegaChat.csproj.AssemblyReference.cache
+D:\BORIS\ProgtimeZan\ChatApp_3M\ClientFirst_MegaChat\obj\Debug\ClientFirst_MegaChat.csproj.SuggestedBindingRedirects.cache
+D:\BORIS\ProgtimeZan\ChatApp_3M\ClientFirst_MegaChat\obj\Debug\ClientFirst_MegaChat.csproj.CoreCompileInputs.cache
+D:\BORIS\ProgtimeZan\ChatApp_3M\ClientFirst_MegaChat\bin\Debug\ClientFirst_MegaChat.exe.config
+D:\BORIS\ProgtimeZan\ChatApp_3M\ClientFirst_MegaChat\bin\Debug\ClientFirst_MegaChat.exe
+D:\BORIS\ProgtimeZan\ChatApp_3M\ClientFirst_MegaChat\bin\Debug\ClientFirst_MegaChat.pdb
+D:\BORIS\ProgtimeZan\ChatApp_3M\ClientFirst_MegaChat\bin\Debug\`.dll
+D:\BORIS\ProgtimeZan\ChatApp_3M\ClientFirst_MegaChat\bin\Debug\`.pdb
+D:\BORIS\ProgtimeZan\ChatApp_3M\ClientFirst_MegaChat\bin\Debug\`.dll.config
+D:\BORIS\ProgtimeZan\ChatApp_3M\ClientFirst_MegaChat\obj\Debug\ClientFirst_MegaChat.csproj.CopyComplete
+D:\BORIS\ProgtimeZan\ChatApp_3M\ClientFirst_MegaChat\obj\Debug\ClientFirst_MegaChat.exe
+D:\BORIS\ProgtimeZan\ChatApp_3M\ClientFirst_MegaChat\obj\Debug\ClientFirst_MegaChat.pdb
+D:\BORIS\ProgtimeZan\ChatApp_3M\ClientFirst_MegaChat\bin\Debug\ChatAppLibrary3.dll
+D:\BORIS\ProgtimeZan\ChatApp_3M\ClientFirst_MegaChat\bin\Debug\ChatAppLibrary3.pdb
+D:\BORIS\ProgtimeZan\ChatApp_3M\ClientFirst_MegaChat\bin\Debug\ChatAppLibrary3.dll.config

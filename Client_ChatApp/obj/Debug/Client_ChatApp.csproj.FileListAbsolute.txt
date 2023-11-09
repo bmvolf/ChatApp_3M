@@ -1,0 +1,8 @@
+D:\BORIS\ProgtimeZan\ChatApp_3M\Client_ChatApp\obj\Debug\Client_ChatApp.csproj.SuggestedBindingRedirects.cache
+D:\BORIS\ProgtimeZan\ChatApp_3M\Client_ChatApp\obj\Debug\Client_ChatApp.csproj.CoreCompileInputs.cache
+D:\BORIS\ProgtimeZan\ChatApp_3M\Client_ChatApp\bin\Debug\Client_ChatApp.exe.config
+D:\BORIS\ProgtimeZan\ChatApp_3M\Client_ChatApp\bin\Debug\Client_ChatApp.exe
+D:\BORIS\ProgtimeZan\ChatApp_3M\Client_ChatApp\bin\Debug\Client_ChatApp.pdb
+D:\BORIS\ProgtimeZan\ChatApp_3M\Client_ChatApp\obj\Debug\Client_ChatApp.exe
+D:\BORIS\ProgtimeZan\ChatApp_3M\Client_ChatApp\obj\Debug\Client_ChatApp.pdb
+D:\BORIS\ProgtimeZan\ChatApp_3M\Client_ChatApp\obj\Debug\Client_ChatApp.csproj.AssemblyReference.cache

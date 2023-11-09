@@ -1,0 +1,11 @@
+D:\BORIS\ProgtimeZan\ChatApp_3M\Client_MegaChat\obj\Debug\Client_MegaChat.csproj.AssemblyReference.cache
+D:\BORIS\ProgtimeZan\ChatApp_3M\Client_MegaChat\obj\Debug\Client_MegaChat.csproj.CoreCompileInputs.cache
+D:\BORIS\ProgtimeZan\ChatApp_3M\Client_MegaChat\bin\Debug\`.dll.config
+D:\BORIS\ProgtimeZan\ChatApp_3M\Client_MegaChat\bin\Debug\`.dll
+D:\BORIS\ProgtimeZan\ChatApp_3M\Client_MegaChat\bin\Debug\`.pdb
+D:\BORIS\ProgtimeZan\ChatApp_3M\Client_MegaChat\obj\Debug\`.dll
+D:\BORIS\ProgtimeZan\ChatApp_3M\Client_MegaChat\obj\Debug\`.pdb
+D:\BORIS\ProgtimeZan\ChatApp_3M\Client_MegaChat\bin\Debug\ChatAppLibrary3.dll
+D:\BORIS\ProgtimeZan\ChatApp_3M\Client_MegaChat\bin\Debug\ChatAppLibrary3.pdb
+D:\BORIS\ProgtimeZan\ChatApp_3M\Client_MegaChat\bin\Debug\ChatAppLibrary3.dll.config
+D:\BORIS\ProgtimeZan\ChatApp_3M\Client_MegaChat\obj\Debug\Client_MegaChat.csproj.CopyComplete

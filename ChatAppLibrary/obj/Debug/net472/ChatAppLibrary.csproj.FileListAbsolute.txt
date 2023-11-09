@@ -1,0 +1,5 @@
+D:\BORIS\ProgtimeZan\ChatApp_3M\ChatAppLibrary\obj\Debug\net472\ChatAppLibrary.csproj.AssemblyReference.cache
+D:\BORIS\ProgtimeZan\ChatApp_3M\ChatAppLibrary\obj\Debug\net472\ChatAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\BORIS\ProgtimeZan\ChatApp_3M\ChatAppLibrary\obj\Debug\net472\ChatAppLibrary.AssemblyInfoInputs.cache
+D:\BORIS\ProgtimeZan\ChatApp_3M\ChatAppLibrary\obj\Debug\net472\ChatAppLibrary.AssemblyInfo.cs
+D:\BORIS\ProgtimeZan\ChatApp_3M\ChatAppLibrary\obj\Debug\net472\ChatAppLibrary.csproj.CoreCompileInputs.cache
